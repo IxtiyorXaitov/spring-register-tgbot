@@ -1,0 +1,7 @@
+app:
+  domain: 'https://18c4-89-249-62-104.ngrok-free.app'
+
+telegram-bot:
+  username: '@word2mebot'
+  token: '8145178964:AAFEBI1i9l-miUXCQPP_aaLeaWYCppsRlh4'
+  webhook-path: "/api/v1/bot/webhook/"

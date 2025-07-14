@@ -31,5 +31,5 @@ Before you begin, ensure you have the following installed and configured:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-directory>
+git clone git@github.com:IxtiyorXaitov/spring-register-tgbot.git
+cd spring-register-tgbot
